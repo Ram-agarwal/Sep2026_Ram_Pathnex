@@ -1,0 +1,18 @@
+Day 01 - DevOps Roadmap
+
+Today's Learning:
+
+Git
+Kubernetes
+Helm
+Argo CD
+Terraform
+Ansible
+CI/CD
+Monitoring
+Security
+SRE
+
+Key Learning:
+
+Today I understood the overall DevOps roadmap and the sequence in which I need to learn the different tools and concepts.

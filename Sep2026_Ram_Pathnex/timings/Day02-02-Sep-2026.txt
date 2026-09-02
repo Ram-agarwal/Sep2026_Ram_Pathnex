@@ -1,0 +1,19 @@
+What I did today:
+
+Today I watched the first Linux for DevOps class from PathNex. I understood why Linux is important for a DevOps engineer and why most companies use Linux servers.
+
+I learned how to create an AWS EC2 instance and how to connect to it using SSH. Bhaiya also explained Security Groups, Key Pairs and Port 22.
+
+I also learned about Jump Server/Bastion Host and how companies use it to securely access internal servers.
+
+After that, I practiced basic Linux commands like:
+- pwd
+- ls
+- cd
+- mkdir
+- rm
+
+One important thing I learned is that Linux does not have a Recycle Bin. If we delete something using rm, it can be permanently deleted, so we need to be careful.
+
+Time spent:
+- Linux for DevOps Class 1: 2 hours 50 minutes 36 seconds

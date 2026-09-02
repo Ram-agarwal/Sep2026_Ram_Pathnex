@@ -1,0 +1,11 @@
+Day 01 - Linux Practice
+
+Today I learned these basic Linux commands:
+
+pwd  - shows current directory
+ls   - lists files and folders
+cd   - changes directory
+mkdir - creates a directory
+rm   - removes files/folders
+
+I also learned how to connect to an AWS EC2 server using SSH.

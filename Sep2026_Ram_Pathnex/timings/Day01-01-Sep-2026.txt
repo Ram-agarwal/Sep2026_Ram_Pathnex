@@ -1,0 +1,9 @@
+What I did today:
+
+- Watched the DevOps Roadmap session on YouTube.
+- Understood the overall DevOps learning roadmap.
+- Learned about Git, Kubernetes, Helm, Argo CD, Terraform,
+  Ansible, CI/CD, Monitoring, Security and SRE.
+
+Time spent:
+- 2 hours 8 minutes 37 seconds
