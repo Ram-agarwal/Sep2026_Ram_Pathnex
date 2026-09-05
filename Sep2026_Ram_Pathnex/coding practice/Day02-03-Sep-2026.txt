@@ -1,0 +1,9 @@
+Day 03 - Linux Practice
+
+Today I learned:
+
+- Linux processes
+- Process management
+- ps and top commands
+- kill command
+- jobs, bg and fg commands

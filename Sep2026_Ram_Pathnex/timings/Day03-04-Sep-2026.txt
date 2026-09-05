@@ -1,0 +1,8 @@
+What I did today:
+
+Today I watched Linux for DevOps Class 4 from PathNex.
+
+I learned about Linux networking, ports, SSH, DNS and useful networking commands like ping, curl, netstat and ss.
+
+I also learned about package management and installing, updating and removing packages in Linux.
+

@@ -1,0 +1,8 @@
+What I did today:
+
+Today I watched Linux for DevOps Class 3 from PathNex.
+
+I learned about Linux processes, jobs and process management. I also learned commands like ps, top, kill, jobs, bg and fg.
+
+Time spent:
+- Linux for DevOps Class 3

@@ -1,0 +1,10 @@
+Day 04 - Linux Practice
+
+Today I learned:
+
+- Linux networking
+- Ports and SSH
+- DNS
+- ping, curl, netstat and ss
+- Linux package management
+- Installing, updating and removing packages
