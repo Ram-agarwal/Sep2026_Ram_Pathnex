@@ -1,0 +1,7 @@
+What I did today: 
+ 
+Today I watched Linux for DevOps Class 5 from PathNex. 
+ 
+I learned practical server administration, SSH, disk management, mounting, shell scripting and process management. 
+ 
+I also learned about Zombie, Orphan and Daemon processes and understood how they work in Linux.

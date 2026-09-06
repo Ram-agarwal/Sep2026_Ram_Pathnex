@@ -1,0 +1,13 @@
+Day 04 - Linux Practice 
+ 
+Today I learned: 
+ 
+- Practical server administration
+- SSH
+- Disk management
+- Mounting
+- Shell scripting
+- Process management
+- Zombie processes
+- Orphan processes
+- Daemon processes
