@@ -1,0 +1,12 @@
+Day 06 - AWS Practice
+
+Today I learned:
+
+- Cloud vs On-Premise
+- AWS Cloud basics
+- Physical servers vs Cloud servers
+- AWS Landing Zone
+- AWS environment setup
+- Industry standards
+- Real-world AWS use cases
+- Concept-based AWS learning

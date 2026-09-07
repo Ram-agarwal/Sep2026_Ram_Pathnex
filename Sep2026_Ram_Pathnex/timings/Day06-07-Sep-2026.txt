@@ -1,0 +1,9 @@
+What I did today:
+
+Today I watched AWS Class 6 from PathNex.
+
+I learned the basics of Cloud vs On-Premise and understood the key differences between managing physical servers and using cloud infrastructure.
+
+I also learned about AWS Landing Zone and how it helps in setting up and organizing an AWS environment properly.
+
+The session focused on industry standards, concepts and real-world AWS use cases.
