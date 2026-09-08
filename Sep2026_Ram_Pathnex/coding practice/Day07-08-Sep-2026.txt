@@ -1,0 +1,11 @@
+Day 07 - AWS Practice
+
+Today I learned:
+
+- Route 53 - AWS DNS service
+- CloudWatch - Monitoring and observability
+- CloudTrail - Track who did what
+- Lambda - Run code without managing servers
+- GuardDuty - Detect threats
+- WAF - Protect web applications
+- Shield - Protect from DDoS attacks
